@@ -12,14 +12,9 @@ class App extends React.Component {
         <div className="introduction"></div>
 
         <h1 className="ui header">
-          <img
-            className="ui image"
-            src="/Twitter_Logo_Blue.png"
-            alt="Twitter Logo"
-          />
           <div className="content">
-            Real Time Tweet Streamer
-            <div className="sub header">Powered by Twitter data</div>
+            Chirp
+            <div className="sub header">A NodeJs backend setup for handling tweets in realtime</div>
           </div>
         </h1>
 

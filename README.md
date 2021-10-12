@@ -1,4 +1,5 @@
 # Real-Time Tweet Streamer
+# bearer token - AAAAAAAAAAAAAAAAAAAAAALLUQEAAAAAUzDb6Q3FAZcgu9gwCyCpzQ9KRSw%3DW3ETrHMnLIxvsvzuEz9LkBiR1gIduauBmf5wCqHKmqgJ3R6QVr
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
